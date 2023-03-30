@@ -21,10 +21,10 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 
  - 📖 Strengthen: 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-sharp&logoColor=white)](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/-java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://dev.java/)
-[![Kotlin](https://img.shields.io/badge/-kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://dev.java/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)](https://www.lua.org/)
-[![TypeScript](https://img.shields.io/badge/-typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
  - 🔎 Learning:
 [![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -32,54 +32,55 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 ### **Fameworks, Platform & Libraries**
 
  - ☑ Acquired: 
-[![Bootstrap](https://img.shields.io/badge/-bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/-tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![React](https://img.shields.io/badge/-react-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://fr.reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![jQuery](https://img.shields.io/badge/-Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
+[![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://fr.reactjs.org/)
 [![SASS](https://img.shields.io/badge/-SASS-hotpink?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
-[![Less](https://img.shields.io/badge/-less-2B4C80?style=flat-square&logo=less&logoColor=white)](https://lesscss.org/)
-[![Styled Components](https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![Less](https://img.shields.io/badge/-Less-2B4C80?style=flat-square&logo=less&logoColor=white)](https://lesscss.org/)
+[![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![Leaflet](https://img.shields.io/badge/-Leaflet-%199900?style=flat-square&logo=leaflet&logoColor=white)](https://leafletjs.com/)
 
  - 📖 Strengthen: 
-[![Laravel](https://img.shields.io/badge/-laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 [![NPM](https://img.shields.io/badge/-NPM-000000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Gulp](https://img.shields.io/badge/-GULP-CF4647?style=flat-square&logo=gulp&logoColor=white)](https://gulpjs.com/)
 [![Next JS](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![NodeJS](https://img.shields.io/badge/-node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![ANDROID](https://img.shields.io/badge/-android-20232a?style=flat-square&logo=android&logoColor=a4c639)](https://www.android.com/)
-[![Webpack](https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/)
-[![Vue.js](https://img.shields.io/badge/-vuejs-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![ANDROID](https://img.shields.io/badge/-Android-20232a?style=flat-square&logo=android&logoColor=a4c639)](https://www.android.com/)
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Divi](https://img.shields.io/badge/-Divi-ff4a9e?style=flat-square&logo=Divi&logoColor=4FC08D)](https://www.elegantthemes.com/)
 
 ### **Servers**
 
  - ☑ Acquired: 
-[![Apache](https://img.shields.io/badge/-apache-D42029?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Apache](https://img.shields.io/badge/-Apache-D42029?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
 
 ### **Database & Manager**
 
  - ☑ Acquired: 
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![MySQL](https://img.shields.io/badge/-mysql-00f?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6c78af?style=flat-square&logo=phpMyAdmin&logoColor=white)](https://www.phpmyadmin.net/)
+[![MySQL](https://img.shields.io/badge/-Mysql-00f?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![phpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-6c78af?style=flat-square&logo=phpMyAdmin&logoColor=white)](https://www.phpmyadmin.net/)
 
  - 📖 Strengthen: 
-[![Postgres](https://img.shields.io/badge/-postgres-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/-sqlite-07405e?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Postgres](https://img.shields.io/badge/-Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/-Sqlite-07405e?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 ### **Design**
 
  - ☑ Acquired: 
 [![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![Figma](https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![PhotoFiltre](https://img.shields.io/badge/-PhotoFiltre-000000?style=flat-square&logo=PhotoFiltre&logoColor=white)](https://www.photofiltre-studio.com/) 
 
  - 📖 Strengthen: 
 [![Gimp](https://img.shields.io/badge/-Gimp-5c5543?style=flat-square&logo=Gimp&logoColor=white)](https://www.gimp.org/) 
-[![Blender](https://img.shields.io/badge/-blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 
-<!-- [![Aseprite](https://img.shields.io/badge/-Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E)](https://www.aseprite.org/) 
+<!-- 
+[![Aseprite](https://img.shields.io/badge/-Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E)](https://www.aseprite.org/) 
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20PhotoShop-31a8ff?style=flat-square&logo=Adobe-PhotoShop&logoColor=001e36)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-ff9a00?style=flat-square&logo=Adobe-Illustrator&logoColor=330000)](https://www.adobe.com/products/illustrator.html) 
 [![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)](https://helpx.adobe.com/fr/xd/get-started.html)
@@ -96,7 +97,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/)
 
  - 📖 Strengthen: 
-[![MacOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/)
+[![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=macOS&logoColor=white)](https://www.apple.com/)
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557c94?style=flat-square&logo=Kali%20Linux&logoColor=white)](https://www.kali.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black)](https://www.ubuntu.com/)
 [![Arduino](https://img.shields.io/badge/--Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
@@ -170,8 +171,8 @@ Thanks to the test libraries and my technology and cyber security watches, I can
  - 📖 Strengthen: 
 [![ESLint](https://img.shields.io/badge/-ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
 [![Babel](https://img.shields.io/badge/-Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)](https://babeljs.io/)
-[![Jira](https://img.shields.io/badge/-jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/fr/software/jira)
-[![Docker](https://img.shields.io/badge/-docker-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jira](https://img.shields.io/badge/-Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/fr/software/jira)
+[![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Yoast](https://img.shields.io/badge/-Yoast-a4286a?style=flat-square&logo=Yoast&logoColor=white)](https://yoast.com/)
 
  - 🔎 Learning:

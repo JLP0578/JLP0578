@@ -5,6 +5,6 @@ use [GitHub Stats Generator](https://gh-stats-gen.vercel.app/) by [@joshxfi](htt
 ## Setting Used
 | Properties | Values |
 | -- | -- |
-| Theme | Synthwave |
+| Theme | Vue Dark |
 | Private commits | Show Private Commits |
 | Border | Hide Border |

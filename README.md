@@ -220,7 +220,7 @@ Themes & Exentions
 <p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
 <!-- _`Click on title to open ⤵`_ -->
 <!-- STYLE -->
-<style>
+<style type="text/css">
 span.readme-icon-acquired,
 span.readme-icon-strengthen,
 span.readme-icon-learning {

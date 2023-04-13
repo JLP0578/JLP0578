@@ -252,9 +252,9 @@ Themes & Exentions
 <!-- MARKDOWN LINKS, BADGE & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- STATS -->
-[GitHubStats1.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/api.svg
-[GitHubStats2.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/github-readme-streak-stats.herokuapp.svg
-[MostUsedLanguage.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/github-readme-stats.vercel.svg
+[GitHubStats1.com]: https://github.com/JLP0578/JLP0578/blob/19455b25e88b385bab0ba4fabcdfc937411f371d/assets/images/stats/api.svg
+[GitHubStats2.com]: https://github.com/JLP0578/JLP0578/blob/19455b25e88b385bab0ba4fabcdfc937411f371d/assets/images/stats/github-readme-streak-stats.herokuapp.svg
+[MostUsedLanguage.com]: https://github.com/JLP0578/JLP0578/blob/19455b25e88b385bab0ba4fabcdfc937411f371d/assets/images/stats/github-readme-stats.vercel.svg
 
 <!-- LANGUAGES -->
 [CSS3.com]: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white

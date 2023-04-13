@@ -15,7 +15,7 @@ I was able to experiment with many development technologies but I am not an expe
 Thanks to the test libraries and my technology and cyber security watches, I can then limit the exposure of my projects to the attacks they could suffer.
 
 
-### &#x2047; Legend
+### &#x1F5FA; Legend
 
 * &#x2611; Acquired: I know the basics and I use the tool often.
 * &#x1F4D6; Strengthen: I know the basics but I still have difficulties.

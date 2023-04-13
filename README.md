@@ -17,11 +17,11 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 <!-- START CENTER -->
 <div align="center">
 
-![stat3][stat3.com]
-
 ![stat1][stat1.com]
 
 ![stat2][stat2.com]
+
+![stat3][stat3.com]
 
 </div>
 <!-- END CENTER -->

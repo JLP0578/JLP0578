@@ -17,10 +17,10 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 <!-- START CENTER -->
 <div align="center">
 
-![stat1][stat1.com]
-![stat2][stat2.com]
+![GitHubStats1][GitHubStats1.com]
+![GitHubStats2][GitHubStats2.com]
 
-![stat3][stat3.com]
+![MostUsedLanguage][MostUsedLanguage.com]
 
 </div>
 <!-- END CENTER -->
@@ -252,9 +252,9 @@ Themes & Exentions
 <!-- MARKDOWN LINKS, BADGE & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- STATS -->
-[stat1.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/JLP0578's%20Github%20Stats.svg
-[stat2.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/Streak%20Stats.svg
-[stat3.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/Most%20Used%20Languages.svg
+[GitHubStats1.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/api.svg
+[GitHubStats2.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/github-readme-streak-stats.herokuapp.svg
+[MostUsedLanguage.com]: https://github.com/JLP0578/JLP0578/blob/f0fab1a3bce0f8a09c62e7a607b8f2ddc1b4bc53/assets/images/stats/github-readme-stats.vercel.svg
 
 <!-- LANGUAGES -->
 [CSS3.com]: https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white

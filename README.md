@@ -13,7 +13,7 @@ I was able to experiment with many development technologies but I am not an expe
 Thanks to the test libraries and my technology and cyber security watches, I can then limit the exposure of my projects to the attacks they could suffer.
 
 
-<div class="readme-title-h3-div"><p><span class="readme-icon">&#x2047;</span> Legend</p>
+<div class="readme-title-h3-div"><p><span class="readme-icon readme-icon-legend">&#x2047;</span> Legend</p>
 <p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p></div>
 
 * <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: I know the basics and I use the tool often.
@@ -239,6 +239,9 @@ span.readme-icon-strengthen {
 }
 span.readme-icon-learning {
     color: purple;
+}
+span.readme-icon-legend {
+    font-weight: bold;
 }
 div.readme-title-h3-div {
     display: flex;

@@ -18,8 +18,8 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 <div align="center">
 
 ![stat1][stat1.com]
-![stat2][stat2.com]
 ![stat3][stat3.com]
+![stat2][stat2.com]
 
 </div>
 <!-- END CENTER -->

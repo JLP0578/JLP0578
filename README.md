@@ -1,31 +1,33 @@
 <a name="readme-top"></a>
+<!-- START CENTER -->
 <div align="center">
 
 # VVelcome 👋, I'm JLP0578
 _I am a **full-stack web developer** and I live in the **south of France**._
 
 </div>
+<!-- END CENTER -->
 
-## <span class="readme-icon readme-icon-shining">&#x2728;</span> My Detailed Tech Stack
+## &#x2728; My Detailed Tech Stack
 
 I was able to experiment with many development technologies but I am not an expert, I prefer to say that I manage to make it work with conditions given in advance.
 
 Thanks to the test libraries and my technology and cyber security watches, I can then limit the exposure of my projects to the attacks they could suffer.
 
 
-### <span class="readme-icon readme-icon-legend">&#x2047;</span> Legend
+### &#x2047; Legend
 
-* <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: I know the basics and I use the tool often.
-* <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: I know the basics but I still have difficulties.
-* <span class="readme-icon readme-icon-learning">&#x1F50E;</span> Learning: I am swimming in the unknown.
+* &#x2611; Acquired: I know the basics and I use the tool often.
+* &#x1F4D6; Strengthen: I know the basics but I still have difficulties.
+* &#x1F50E; Learning: I am swimming in the unknown.
 
 > Something you don't know? _`Click on the badge to learn more on the tool's website.`_
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F4DD;</span> Languages
+### &#x1F4DD; Languages
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![C++][C++.com]][C++-url]
 [![CSS3][CSS3.com]][CSS3-url]
 [![HTML5][HTML5.com]][HTML5-url]
@@ -33,7 +35,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![PHP][PHP.com]][PHP-url]
 [![Shell Script][ShellScript.com]][ShellScript-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![C#][C#.com]][C#-url]
 [![Java][Java.com]][Java-url]
 [![Kotlin][Kotlin.com]][Kotlin-url]
@@ -41,11 +43,11 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Python][Python.com]][Python-url]
 [![TypeScript][TypeScript.com]][TypeScript-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F4BC;</span> Fameworks, Platform & Libraries
+### &#x1F4BC; Fameworks, Platform & Libraries
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 [![React][React.com]][React-url]
@@ -54,7 +56,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Styled Components][StyledComponents.com]][StyledComponents-url]
 [![Leaflet][Leaflet.com]][Leaflet-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![Laravel][Laravel.com]][Laravel-url]
 [![Gulp][Gulp.com]][Gulp-url]
 [![Next JS][NextJS.com]][NextJS-url]
@@ -63,41 +65,41 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Webpack][Webpack.com]][Webpack-url]
 [![Vue.js][Vuejs.com]][Vuejs-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F5A5;</span> Servers
+### &#x1F5A5; Servers
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Apache][Apache.com]][Apache-url]
 [![WAMP][WAMP.com]][WAMP-url]
 [![XAMPP][XAMPP.com]][XAMPP-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![NodeJS][NodeJS.com]][NodeJS-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F512;</span> Database & Manager
+### &#x1F512; Database & Manager
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![MariaDB][MariaDB.com]][MariaDB-url]
 [![MySQL][MySQL.com]][MySQL-url]
 [![phpMyAdmin][phpMyAdmin.com]][phpMyAdmin-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![Postgres][Postgres.com]][Postgres-url]
 [![SQLite][SQLite.com]][SQLite-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F3A8;</span> Design
+### &#x1F3A8; Design
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Canva][Canva.com]][Canva-url]
 [![Figma][Figma.com]][Figma-url]
 [![PhotoFiltre][PhotoFiltre.com]][PhotoFiltre-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![Gimp][Gimp.com]][Gimp-url]
 [![Blender][Blender.com]][Blender-url]
 [![Aseprite][Aseprite.com]][Aseprite-url]
@@ -105,11 +107,11 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Adobe Illustrator][AdobeIllustrator.com]][AdobeIllustrator-url]
 [![Adobe XD][AdobeXD.com]][AdobeXD-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F4BB;</span> Operating System (OS)
+### &#x1F4BB; Operating System (OS)
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Debian][Debian.com]][Debian-url]
 [![Windows 10][Windows10.com]][Windows10-url]
 [![Windows 7][Windows7.com]][Windows7-url]
@@ -118,41 +120,41 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Windows 95][Windows95.com]][Windows95-url]
 [![Raspberry Pi][RaspberryPi.com]][RaspberryPi-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![MacOS][MacOS.com]][MacOS-url]
 [![Kali Linux][KaliLinux.com]][KaliLinux-url]
 [![Ubuntu][Ubuntu.com]][Ubuntu-url]
 [![Arduino][Arduino.com]][Arduino-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F9EA;</span> Testing
+### &#x1F9EA; Testing
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen:
+- &#x1F4D6; Strengthen:
 [![Jest][Jest.com]][Jest-url]
 [![JUnit5][JUnit5.com]][JUnit5-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F4C4;</span> Content Management System (CMS)
+### &#x1F4C4; Content Management System (CMS)
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Wordpress][Wordpress.com]][Wordpress-url]
 
 Themes & Exentions
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![WooCommerce][WooCommerce.com]][WooCommerce-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![Yoast][Yoast.com]][Yoast-url]
 [![Divi][Divi.com]][Divi-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F4D3;</span> Code Editor
+### &#x1F4D3; Code Editor
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![VisualStudioCode][VisualStudioCode.com]][VisualStudioCode-url]
 [![WebStorm][WebStorm.com]][WebStorm-url]
 [![PhpStorm][PhpStorm.com]][PhpStorm-url]
@@ -160,11 +162,11 @@ Themes & Exentions
 [![Sublime Text][SublimeText.com]][SublimeText-url]
 [![Notepad++][Notepad++.com]][Notepad++-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F4BE;</span> Software
+### &#x1F4BE; Software
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Microsoft Word][MicrosoftWord.com]][MicrosoftWord-url]
 [![Microsoft Excel][MicrosoftExcel.com]][MicrosoftExcel-url]
 [![Microsoft PowerPoint][MicrosoftPowerPoint.com]][MicrosoftPowerPoint-url]
@@ -172,55 +174,55 @@ Themes & Exentions
 [![Microsoft Outlook][MicrosoftOutlook.com]][MicrosoftOutlook-url]
 [![LibreOffice][LibreOffice.com]][LibreOffice-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![VirtualBox][VirtualBox.com]][VirtualBox-url]
 [![Postman][Postman.com]][Postman-url]
 [![Xenu's Link Sleuth][XenusLinkSleuth.com]][XenusLinkSleuth-url]
 [![QuiteRSS][QuiteRSS.com]][QuiteRSS-url]
 [![Screaming Frog SEO Spider][ScreamingFrogSEOSpider.com]][ScreamingFrogSEOSpider-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F4DD;</span> Project Management
+### &#x1F4DD; Project Management
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Trello][Trello.com]][Trello-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![Jira][Jira.com]][Jira-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F3AE;</span> Game Engines
+### &#x1F3AE; Game Engines
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![UNITY][UNITY.com]][UNITY-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F503;</span> Automation
+### &#x1F503; Automation
 
-- <span class="readme-icon readme-icon-acquired">&#x2611;</span> Acquired: 
+- &#x2611; Acquired: 
 [![Butler][Butler.com]][Butler-url]
 [![Google Apps Script][GoogleAppsScript.com]][GoogleAppsScript-url]
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![Zapier][Zapier.com]][Zapier-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x1F531;</span> Source Code Management
+### &#x1F531; Source Code Management
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![Git][Git.com]][Git-url]
 [![GitLab][GitLab.com]][GitLab-url]
 [![Bitbucket][Bitbucket.com]][Bitbucket-url]
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
-### <span class="readme-icon">&#x2731;</span> Other
+### &#x2731; Other
 
-- <span class="readme-icon readme-icon-strengthen">&#x1F4D6;</span> Strengthen: 
+- &#x1F4D6; Strengthen: 
 [![ESLint][ESLint.com]][ESLint-url]
 [![Babel][Babel.com]][Babel-url]
 [![Docker][Docker.com]][Docker-url]
@@ -228,60 +230,12 @@ Themes & Exentions
 [![WireShark][WireShark.com]][WireShark-url]
 [![Advanced Ip Scanner][AdvancedIpScanner.com]][AdvancedIpScanner-url]
 
-- <span class="readme-icon readme-icon-learning">&#x1F50E;</span> Learning:
+- &#x1F50E; Learning:
 [![TryHackMe][TryHackMe.com]][TryHackMe-url]
 
 
-<p align="right" class="readme-back-to-top"><a href="#readme-top">Back to top ⤴</a></p>
+<p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 <!-- _`Click on title to open ⤵`_ -->
-<!-- STYLE -->
-<!-- <style type="text/css">
-span.readme-icon-acquired,
-span.readme-icon-strengthen,
-span.readme-icon-learning {
-    font-weight: bold;
-    font-size: 20px!important;
-}
-span.readme-icon {
-    color: black;
-    font-size: 22px;
-}
-span.readme-icon-acquired {
-    color: green;
-}
-span.readme-icon-strengthen {
-    color: orange;
-}
-span.readme-icon-learning {
-    color: purple;
-}
-span.readme-icon-legend {
-    font-weight: bold;
-}
-div.readme-title-h3-div {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    align-items: center;
-    align-content: center;
-    border-bottom: 1px solid var(--color-border);
-}
-div.readme-title-h3-div p {
-    margin: 0px;
-    min-width: 100px;
-}
-p.readme-back-to-top {
-    font-size: 14px;
-    font-weight: normal;
-    margin: 0px!important;
-}
-@media only screen and (max-width: 400px) {
-    div.readme-title-h3-div {
-        flex-direction: column!important;
-    }
-}
-</style> -->
 <!-- EMOJI -->
 <!-- https://www.compart.com/en/unicode/ -->
 

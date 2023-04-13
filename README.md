@@ -2,7 +2,7 @@
 <div align="center">
 
 # VVelcome 👋, I'm JLP0578
-> I am a **full-stack web developer** and I live in the **south of France**.
+_I am a **full-stack web developer** and I live in the **south of France**._
 
 </div>
 

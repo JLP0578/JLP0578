@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<p align="right"><a href="#readme-bottom">Go to bottom ⤵</a></p>
+<p align="left"><a href="#readme-bottom">Go to bottom ⤵</a></p>
 <!-- START CENTER -->
 <div align="center">
 

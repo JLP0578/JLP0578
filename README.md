@@ -145,6 +145,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 - &#x1F4D6; Strengthen:
 [![Jest][Jest.com]][Jest-url]
 [![JUnit5][JUnit5.com]][JUnit5-url]
+[![QUnit][QUnit.com]][QUnit-url]
 
 <p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
@@ -465,6 +466,9 @@ Themes & Exentions
 
 [JUnit5.com]: https://img.shields.io/badge/-JUnit5-25a162?style=flat-square&logo=JUnit5&logoColor=white
 [JUnit5-url]: https://junit.org/junit5/
+
+[QUnit.com]: https://img.shields.io/badge/-QUnit-6e2568?style=flat-square&logo=QUnit&logoColor=white
+[QUnit-url]: https://qunitjs.com/
 
 
 

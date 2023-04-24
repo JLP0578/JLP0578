@@ -238,6 +238,7 @@ Themes & Exentions
 - &#x1F4D6; Strengthen: 
 [![ESLint][ESLint.com]][ESLint-url]
 [![Babel][Babel.com]][Babel-url]
+[![Webpack][Webpack.com]][Webpack-url]
 [![Docker][Docker.com]][Docker-url]
 [![ISIS Proteus][ISISProteus.com]][ISISProteus-url]
 [![WireShark][WireShark.com]][WireShark-url]

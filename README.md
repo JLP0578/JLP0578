@@ -248,6 +248,7 @@ Themes & Exentions
 
 
 <p align="right"><a href="#readme-top">Back to top ⤴</a></p>
+<a name="readme-bottom"></a>
 <!-- _`Click on title to open ⤵`_ -->
 <!-- EMOJI -->
 <!-- https://www.compart.com/en/unicode/ -->
@@ -612,6 +613,3 @@ Themes & Exentions
 
 [TryHackMe.com]: https://img.shields.io/badge/-TryHackMe-212c42?style=flat-square&logo=TryHackMe&logoColor=white
 [TryHackMe-url]: https://tryhackme.com/
-
-
-<a name="readme-bottom"></a>

@@ -19,8 +19,10 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 <!-- START CENTER -->
 <div align="center">
 
+<!-- 
 ![GitHubStats1][GitHubStats1.com]
 ![GitHubStats2][GitHubStats2.com]
+-->
 
 ![MostUsedLanguage][MostUsedLanguage.com]
 

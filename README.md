@@ -5,7 +5,10 @@
 
 # VVelcome 👋, I'm JLP0578
 _I am a **full-stack web developer** and I live in the **south of France**._
+
+<!--
 _See my [Portfolio WebSite](https://jlp0578.github.io/)_
+-->
 
 </div>
 <!-- END CENTER -->

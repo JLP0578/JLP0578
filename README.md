@@ -151,6 +151,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Jest][Jest.com]][Jest-url]
 [![JUnit5][JUnit5.com]][JUnit5-url]
 [![QUnit][QUnit.com]][QUnit-url]
+[![PyTest][PyTest.com]][PyTest-url]
 
 <p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
@@ -477,6 +478,8 @@ Themes & Exentions
 [QUnit.com]: https://img.shields.io/badge/-QUnit-6e2568?style=flat-square&logo=QUnit&logoColor=white
 [QUnit-url]: https://qunitjs.com/
 
+[PyTest.com]: https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white
+[PyTest-url]: https://docs.pytest.org/
 
 
 <!-- CMS -->

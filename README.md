@@ -562,7 +562,7 @@ Themes & Exentions
 [Butler.com]: https://img.shields.io/badge/-Butler-026AA7?style=flat-square&logo=Trello&logoColor=white
 [Butler-url]: https://trello.com/butler-automation
 
-[GoogleAppsScript.com]: https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white
+[GoogleAppsScript.com]: https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white
 [GoogleAppsScript-url]: https://www.google.com/script/start/
 
 

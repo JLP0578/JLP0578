@@ -352,7 +352,7 @@ Themes & Exentions
 [Webpack.com]: https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black
 [Webpack-url]: https://webpack.js.org/
 
-[Vuejs.com]: https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&ogo=vuedotjs&logoColor=fff
+[Vuejs.com]: https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&ogo=vuedotjs&logoColor=white
 [Vuejs-url]: https://vuejs.org/
 
 [Divi.com]: https://img.shields.io/badge/-Divi-ff4a9e?style=flat-square&logo=Divi&logoColor=4FC08D

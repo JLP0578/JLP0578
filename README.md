@@ -22,12 +22,11 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 <!-- START CENTER -->
 <div align="center">
 
-<!-- 
-![GitHubStats1][GitHubStats1.com]
-![GitHubStats2][GitHubStats2.com]
--->
+![MostUsedLanguage](https://github.com/JLP0578/JLP0578/blob/main/assets/images/stats/api.svg?raw=true)
 
-![MostUsedLanguage][MostUsedLanguage.com]
+![MostUsedLanguage](https://github.com/JLP0578/JLP0578/blob/main/assets/images/stats/github-readme-stats.vercel.svg?raw=true)
+
+![MostUsedLanguage](https://github.com/JLP0578/JLP0578/blob/main/assets/images/stats/github-readme-streak-stats.herokuapp.svg?raw=true)
 
 </div>
 <!-- END CENTER -->
@@ -50,6 +49,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![HTML5][HTML5.com]][HTML5-url]
 [![JavaScript][JavaScript.com]][JavaScript-url]
 [![PHP][PHP.com]][PHP-url]
+[![Python][Python.com]][Python-url]
 [![Shell Script][ShellScript.com]][ShellScript-url]
 
 - &#x1F4D6; Strengthen: 
@@ -57,7 +57,6 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Java][Java.com]][Java-url]
 [![Kotlin][Kotlin.com]][Kotlin-url]
 [![Lua][Lua.com]][Lua-url]
-[![Python][Python.com]][Python-url]
 [![TypeScript][TypeScript.com]][TypeScript-url]
 
 <p align="right"><a href="#readme-top">Back to top ⤴</a></p>
@@ -71,10 +70,10 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![SASS][SASS.com]][SASS-url]
 [![Less][Less.com]][Less-url]
 [![Styled Components][StyledComponents.com]][StyledComponents-url]
+[![Laravel][Laravel.com]][Laravel-url]
 [![Leaflet][Leaflet.com]][Leaflet-url]
 
 - &#x1F4D6; Strengthen: 
-[![Laravel][Laravel.com]][Laravel-url]
 [![Gulp][Gulp.com]][Gulp-url]
 [![Next JS][NextJS.com]][NextJS-url]
 [![NPM][NPM.com]][NPM-url]
@@ -136,6 +135,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![Windows 98][Windows98.com]][Windows98-url]
 [![Windows 95][Windows95.com]][Windows95-url]
 [![Raspberry Pi][RaspberryPi.com]][RaspberryPi-url]
+[![Docker][Docker.com]][Docker-url]
 
 - &#x1F4D6; Strengthen: 
 [![MacOS][MacOS.com]][MacOS-url]
@@ -159,6 +159,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 
 - &#x2611; Acquired: 
 [![Wordpress][Wordpress.com]][Wordpress-url]
+[![Magento][Magento.com]][Magento-url]
 
 Themes & Exentions
 
@@ -236,16 +237,20 @@ Themes & Exentions
 [![Git][Git.com]][Git-url]
 [![GitLab][GitLab.com]][GitLab-url]
 [![Bitbucket][Bitbucket.com]][Bitbucket-url]
+[![Azure][Azure.com]][Azure-url]
 
 <p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
 ### &#x2731; Other
 
+- &#x2611; Acquired: 
+[![QuiteRSS][QuiteRSS.com]][QuiteRSS-url]
+[![KeePass][KeePass.com]][KeePass-url]
+
 - &#x1F4D6; Strengthen: 
 [![ESLint][ESLint.com]][ESLint-url]
 [![Babel][Babel.com]][Babel-url]
 [![Webpack][Webpack.com]][Webpack-url]
-[![Docker][Docker.com]][Docker-url]
 [![ISIS Proteus][ISISProteus.com]][ISISProteus-url]
 [![WireShark][WireShark.com]][WireShark-url]
 [![Advanced Ip Scanner][AdvancedIpScanner.com]][AdvancedIpScanner-url]
@@ -451,6 +456,9 @@ Themes & Exentions
 [RaspberryPi.com]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi
 [RaspberryPi-url]: https://www.raspberrypi.com/software/
 
+[Docker.com]: https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+
 
 
 [MacOS.com]: https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=macOS&logoColor=white
@@ -485,6 +493,8 @@ Themes & Exentions
 <!-- CMS -->
 [Wordpress.com]: https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=WordPress&logoColor=white
 [Wordpress-url]: https://wordpress.com/
+[Magento.com]: https://img.shields.io/badge/-Magento-EE672F?style=flat-square&logo=Magento&logoColor=white
+[Magento-url]: https://business.adobe.com/products/magento/magento-commerce.html
 
 
 
@@ -585,6 +595,9 @@ Themes & Exentions
 [NPM.com]: https://img.shields.io/badge/-NPM-cc3534?style=flat-square&logo=npm&logoColor=white
 [NPM-url]: https://www.npmjs.com/
 
+[Azure.com]: https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white
+[Azure-url]: https://azure.microsoft.com/fr-fr/get-started/azure-portal
+
 
 
 
@@ -592,6 +605,13 @@ Themes & Exentions
 [WooCommerce.com]: https://img.shields.io/badge/-WooCommerce-96588a?style=flat-square&logo=WooCommerce&logoColor=white
 [WooCommerce-url]: https://woocommerce.com/
 
+
+
+[KeePass.com]: https://img.shields.io/badge/-KeePass-6486E8?style=flat-square&logo=keepassxc&logoColor=white
+[KeePass-url]: https://keepass.info/
+
+[QuiteRSS.com]: https://img.shields.io/badge/-QuiteRSS-76D080?style=flat-square&logo=quiterss&logoColor=white
+[QuiteRSS-url]: https://github.com/QuiteRSS/quiterss
 
 
 [ESLint.com]: https://img.shields.io/badge/-ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white
@@ -602,9 +622,6 @@ Themes & Exentions
 
 [Jira.com]: https://img.shields.io/badge/-Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white
 [Jira-url]: https://www.atlassian.com/fr/software/jira
-
-[Docker.com]: https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
 
 [Yoast.com]: https://img.shields.io/badge/-Yoast-a4286a?style=flat-square&logo=Yoast&logoColor=white
 [Yoast-url]: https://yoast.com/

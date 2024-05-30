@@ -294,7 +294,7 @@ Themes & Exentions
 
 
 
-[C#.com]: https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-sharp&logoColor=white
+[C#.com]: https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=C%23&logoColor=white
 [C#-url]: https://learn.microsoft.com/fr-fr/dotnet/csharp/
 
 [Java.com]: https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white

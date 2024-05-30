@@ -129,6 +129,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 
 - &#x2611; Acquired: 
 [![Debian][Debian.com]][Debian-url]
+[![Windows 11][Windows11.com]][Windows11-url]
 [![Windows 10][Windows10.com]][Windows10-url]
 [![Windows 7][Windows7.com]][Windows7-url]
 [![Windows XP][WindowsXP.com]][WindowsXP-url]
@@ -438,7 +439,10 @@ Themes & Exentions
 [Debian.com]: https://img.shields.io/badge/-Debian-A81d33?style=flat-square&logo=Debian&logoColorlack
 [Debian-url]: https://www.debian.org/
 
-[Windows10.com]: https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows&logoColor=wte
+[Windows11.com]: https://img.shields.io/badge/-Windows%2011-0078D4?style=flat-square&logo=Windows%2011&logoColor=wte
+[Windows11-url]: https://www.microsoft.com/
+
+[Windows10.com]: https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=Windows%2010&logoColor=wte
 [Windows10-url]: https://www.microsoft.com/
 
 [Windows7.com]: https://img.shields.io/badge/-Windows%207-0078d6?style=flat-square&logo=Windows%20XP&logoColor=wte

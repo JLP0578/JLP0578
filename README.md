@@ -80,6 +80,8 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![ANDROID][ANDROID.com]][ANDROID-url]
 [![Webpack][Webpack.com]][Webpack-url]
 [![Vue.js][Vuejs.com]][Vuejs-url]
+[![QtCreator][QtCreator.com]][QtCreator-url]
+
 
 <p align="right"><a href="#readme-top">Back to top ⤴</a></p>
 
@@ -360,6 +362,9 @@ Themes & Exentions
 
 [Vuejs.com]: https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white
 [Vuejs-url]: https://vuejs.org/
+
+[QtCreator.com]: https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white
+[QtCreator-url]: https://www.qt.io/
 
 [Divi.com]: https://img.shields.io/badge/-Divi-ff4a9e?style=flat-square&logo=Divi&logoColor=4FC08D
 [Divi-url]: https://www.elegantthemes.com/

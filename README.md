@@ -210,6 +210,7 @@ Themes & Exentions
 
 - &#x2611; Acquired: 
 [![Trello][Trello.com]][Trello-url]
+[![Azure][Azure.com]][Azure-url]
 
 - &#x1F4D6; Strengthen: 
 [![Jira][Jira.com]][Jira-url]

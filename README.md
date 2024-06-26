@@ -200,6 +200,7 @@ Themes & Exentions
 - &#x1F4D6; Strengthen: 
 [![VirtualBox][VirtualBox.com]][VirtualBox-url]
 [![Postman][Postman.com]][Postman-url]
+[![Insomnia][Insomnia.com]][Insomnia-url]
 [![Xenu's Link Sleuth][XenusLinkSleuth.com]][XenusLinkSleuth-url]
 [![QuiteRSS][QuiteRSS.com]][QuiteRSS-url]
 [![Screaming Frog SEO Spider][ScreamingFrogSEOSpider.com]][ScreamingFrogSEOSpider-url]
@@ -558,8 +559,11 @@ Themes & Exentions
 [Trello.com]: https://img.shields.io/badge/-Trello-026AA7?style=flat-square&logo=Trello&logoColor=white
 [Trello-url]: https://trello.com/
 
-[Postman.com]: https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
+[Postman.com]: https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white
 [Postman-url]: https://www.postman.com/
+
+[Insomnia.com]: https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
+[Insomnia-url]: https://insomnia.rest/
 
 [XenusLinkSleuth.com]: https://img.shields.io/badge/-Xenu's%20Link%20Sleuth-000000?style=flat-square&logo=Xenu's%20Link%20Sleuth&logoColor=white
 [XenusLinkSleuth-url]: http://home.snafu.de/tilman/xenulink.html

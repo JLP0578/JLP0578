@@ -103,6 +103,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![MariaDB][MariaDB.com]][MariaDB-url]
 [![MySQL][MySQL.com]][MySQL-url]
 [![phpMyAdmin][phpMyAdmin.com]][phpMyAdmin-url]
+[![AntareSQL][AntareSQL.com]][AntareSQL-url]
 
 - &#x1F4D6; Strengthen: 
 [![Postgres][Postgres.com]][Postgres-url]
@@ -399,6 +400,9 @@ Themes & Exentions
 
 [phpMyAdmin.com]: https://img.shields.io/badge/-PhpMyAdmin-6c78af?style=flat-square&logo=phpMyAdmin&logoColor=white
 [phpMyAdmin-url]: https://www.phpmyadmin.net/
+
+[AntaresSQL.com]: https://img.shields.io/badge/-AntaresSQL-F4632A?style=flat-square&logo=antaressql&logoColor=white
+[AntaresSQL-url]: https://antares-sql.app/
 
 
 

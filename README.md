@@ -103,7 +103,7 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 [![MariaDB][MariaDB.com]][MariaDB-url]
 [![MySQL][MySQL.com]][MySQL-url]
 [![phpMyAdmin][phpMyAdmin.com]][phpMyAdmin-url]
-[![AntareSQL][AntareSQL.com]][AntareSQL-url]
+[![AntaresSQL][AntaresSQL.com]][AntaresSQL-url]
 
 - &#x1F4D6; Strengthen: 
 [![Postgres][Postgres.com]][Postgres-url]

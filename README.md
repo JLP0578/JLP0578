@@ -263,6 +263,8 @@ Themes & Exentions
 
 - &#x1F50E; Learning:
 [![TryHackMe][TryHackMe.com]][TryHackMe-url]
+[![HackTheBox][HackTheBox.com]][HackTheBox-url]
+[![RootMe][RootMe.com]][RootMe-url]
 
 
 <p align="right"><a href="#readme-top">Back to top ⤴</a></p>
@@ -657,3 +659,10 @@ Themes & Exentions
 
 [TryHackMe.com]: https://img.shields.io/badge/-TryHackMe-212c42?style=flat-square&logo=TryHackMe&logoColor=white
 [TryHackMe-url]: https://tryhackme.com/
+
+[HackTheBox.com]: https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black
+[HackTheBox-url]: https://www.hackthebox.com/
+
+[RootMe.com]: https://img.shields.io/badge/-Root%20Me-000?style=flat-square&logo=rootme&logoColor=white
+[RootMe-url]: https://www.root-me.org/
+

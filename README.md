@@ -28,8 +28,6 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 
 ![MostUsedLanguage](https://github.com/JLP0578/JLP0578/blob/main/assets/images/stats/github-readme-streak-stats.herokuapp.svg?raw=true)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1850748" style='border:none;'></iframe>
-
 </div>
 <!-- END CENTER -->
 

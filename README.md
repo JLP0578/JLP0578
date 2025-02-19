@@ -28,6 +28,8 @@ Thanks to the test libraries and my technology and cyber security watches, I can
 
 ![MostUsedLanguage](https://github.com/JLP0578/JLP0578/blob/main/assets/images/stats/github-readme-streak-stats.herokuapp.svg?raw=true)
 
+![tryhackme stats](https://raw.githubusercontent.com/JLP0578/JLP0578/main/assets/thm_propic.png)
+
 </div>
 <!-- END CENTER -->
 

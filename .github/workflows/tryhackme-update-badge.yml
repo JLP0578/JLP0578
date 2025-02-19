@@ -15,5 +15,6 @@ jobs:
         with:
           # Replace with your tryhackme username
           username: "Grievous05"
+          image_path: "./assets/images/stats/thm_propic.png"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
                                                   # and will pull your github token automatically
